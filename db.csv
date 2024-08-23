@@ -1,0 +1,16 @@
+Table: articles
+ID,Prix,Produit,Quantité,Categorie,Fournisseur
+26,2000,pat,1,7,12
+
+Table: fournisseur
+ID,Nom_Fournisseur
+12, chat
+3,gh
+13,ALI
+
+Table: categorie
+ID,Nom_Categorie
+7, chien
+8,bh
+9,Chop
+
